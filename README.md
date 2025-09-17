@@ -8,21 +8,20 @@
 
 Aquí algunos proyectos que demuestran mis habilidades en desarrollo backend, ETL, análisis de datos y más:
 
-### 1️⃣ Pipeline ETL Automatizado
+### Pipeline ETL Automatizado
 - Extracción, transformación y carga de datos usando **Python** y **SQL**.
 - Automatización completa con validación de calidad de datos.
 - Dashboard interactivo en **Power BI** y exposición de KPIs vía **API**.
 - **Tecnologías:** Python, Pandas, SQL, Power BI, FastAPI
 
-### 2️⃣ Sistema de Turnos para Cancha de Pádel
-- Gestión de reservas mediante **webapp** y **bot de WhatsApp**.
-- Integración de base de datos y notificaciones automáticas.
-- **Tecnologías:** Django, PostgreSQL, Twilio, JavaScript
-
-### 3️⃣ Proyecto de Recomendación de Películas con IA
+### Proyecto de Recomendación de Películas con IA
 - Analiza datos de usuarios y películas para sugerir recomendaciones personalizadas.
 - Uso de técnicas de **prompting** e IA generativa.
-- **Tecnologías:** Python, Pandas, ChatGPT API
+- **Tecnologías:** Python, Pandas
+
+### Proyecto de Ecommerce
+- Página web de Ecommerce con Auth, Admin, Cart.
+- **Tecnologías:** Django, HTML, CSS, Bootstrap, Docker
 
 ---
 
@@ -38,16 +37,15 @@ Aquí algunos proyectos que demuestran mis habilidades en desarrollo backend, ET
 
 ## 📂 Cómo explorar mi trabajo
 
-- Puedes ver todos mis proyectos en mi **[GitHub](https://github.com/tuusuario)**  
-- Algunos destacados con documentación y demos están en mi **[Portfolio](#)**
+- Puedes ver todos mis proyectos en mi **[GitHub](https://github.com/JoacoM2003)**  
+- Algunos destacados con documentación y demos están en mi **[Portfolio](jmunozdev.vercel.app)**
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: **tuemail@dominio.com**  
-- 🌐 LinkedIn: **[linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)**  
-- 🐦 Twitter: **[@tuusuario](https://twitter.com/tuusuario)**  
+- ✉️ Email: **joaco.munoz04@gmail.com**  
+- 🌐 LinkedIn: **[linkedin.com/in/tuusuario](https://linkedin.com/in/joaquin-munoz-dev/)**  
 
 ---
 
