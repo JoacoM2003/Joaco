@@ -52,9 +52,3 @@ Aquí algunos proyectos que demuestran mis habilidades en desarrollo backend, ET
 ## ⚡ Fun fact
 
 Me gusta explorar nuevas tecnologías y aprender jugando con **datos**, **APIs** y **IA generativa**. Siempre buscando mejorar procesos y crear soluciones prácticas.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=brightgreen" alt="profile views" />
-</p>
