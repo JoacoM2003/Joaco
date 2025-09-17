@@ -38,14 +38,14 @@ Aquí algunos proyectos que demuestran mis habilidades en desarrollo backend, ET
 ## 📂 Cómo explorar mi trabajo
 
 - Puedes ver todos mis proyectos en mi **[GitHub](https://github.com/JoacoM2003)**  
-- Algunos destacados con documentación y demos están en mi **[Portfolio](jmunozdev.vercel.app)**
+- Algunos destacados con documentación y demos están en mi **[Portfolio](https://jmunozdev.vercel.app)**
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: **joaco.munoz04@gmail.com**  
-- 🌐 LinkedIn: **[linkedin.com/in/tuusuario](https://linkedin.com/in/joaquin-munoz-dev/)**  
+- ✉️ Email: **joaco.munoz04@gmail.com**
+- 🌐 LinkedIn: **[linkedin.com/in/joaquin-munoz-dev/](https://linkedin.com/in/joaquin-munoz-dev/)**  
 
 ---
 
